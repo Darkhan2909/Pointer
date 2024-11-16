@@ -20,4 +20,5 @@
   
  body {
     background: repeating-radial-gradient(lightblue, transparent 70px);
+    background: lightblue;
  }
