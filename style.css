@@ -22,3 +22,9 @@
     background: repeating-radial-gradient(lightblue, transparent 70px);
     background: lightblue;
  }
+
+
+ 
+ body, html {
+  background: blanchedalmond;
+}
